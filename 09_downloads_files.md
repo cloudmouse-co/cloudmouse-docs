@@ -156,4 +156,4 @@ You can use, modify, and sell products based on CloudMouse electronics and softw
 
 ## Need something not listed?
 
-Missing a file or resource? Let us know on Discord or GitHub. We're constantly adding new downloads and resources based on community needs.
+Missing a file or resource? Let us know on [Discord](https://discord.gg/n4Mh6jxH34) or [GitHub](https://github.com/cloudmouse-co). We're constantly adding new downloads and resources based on community needs.

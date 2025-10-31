@@ -12,7 +12,7 @@ All examples are built to teach you something specific while being actually usef
 
 **What it does:** Multiple LED effects including rainbow cycle, breathing, scanner, and theater chase. Use the encoder to switch between animations and adjust speed.
 
-**What you'll learn:**
+**What you 'll learn:**
 
   * Advanced FastLED effects and color manipulation
   * Smooth animations with proper timing
@@ -25,7 +25,7 @@ All examples are built to teach you something specific while being actually usef
 
 **What it does:** Scans for WiFi networks and displays them on screen with signal strength bars. Shows SSID, channel, encryption type, and RSSI. Auto-refreshes every few seconds.
 
-**What you'll learn:**
+**What you 'll learn:**
 
   * WiFi scanning and network detection
   * Parsing WiFi information (SSID, RSSI, encryption)
@@ -38,7 +38,7 @@ All examples are built to teach you something specific while being actually usef
 
 **What it does:** Turns CloudMouse into a wireless Bluetooth mouse. Rotate the encoder to move cursor, press button to click. Works with any device that supports BLE HID.
 
-**What you'll learn:**
+**What you 'll learn:**
 
   * Bluetooth Low Energy HID protocol
   * HID mouse report format
@@ -51,7 +51,7 @@ All examples are built to teach you something specific while being actually usef
 
 **What it does:** Creates a local web server with a control panel. Access it from your browser to control LEDs, display messages, read sensor data, and trigger buzzer. Perfect starting point for IoT projects.
 
-**What you'll learn:**
+**What you 'll learn:**
 
   * ESP32 web server basics
   * HTML/CSS/JavaScript interface design
@@ -65,7 +65,7 @@ All examples are built to teach you something specific while being actually usef
 
 **What it does:** Displays real-time system information: WiFi signal strength, free memory, uptime, CPU temperature. Updates every second with animated graphs. Great template for monitoring projects.
 
-**What you'll learn:**
+**What you 'll learn:**
 
   * Reading ESP32 internal sensors
   * Real-time data visualization
@@ -78,7 +78,7 @@ All examples are built to teach you something specific while being actually usef
 
 **What it does:** Full menu system with encoder navigation. Multiple screens, submenus, settings, value adjustment. Shows how to build complex UIs with just a rotary encoder and display.
 
-**What you'll learn:**
+**What you 'll learn:**
 
   * Menu system architecture
   * State management for UI
@@ -125,10 +125,10 @@ Found a bug or have an improvement? Open an issue or submit a pull request on Gi
 
 Having trouble with an example? Check the repository's Issues page on GitHub. Someone might have already solved your problem.
 
-Still stuck? Join our Discord community for help from other makers.
+Still stuck? [Join our Discord](https://discord.gg/n4Mh6jxH34) community for help from other makers.
 
 ## Want more examples?
 
-The community is constantly creating new examples. Check the CloudMouse GitHub organization for the latest projects.
+The community is constantly creating new examples. Check the [CloudMouse GitHub](https://github.com/cloudmouse-co) organization for the latest projects.
 
 Built something cool? Share it! We love featuring community projects.

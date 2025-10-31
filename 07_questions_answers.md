@@ -12,7 +12,7 @@ Anything controllable. Seriously. Custom wireless input devices (mouse, keyboard
 
 ### Do I need coding skills?
 
-Basic programming knowledge helps, but you don't need to be an expert. If you can read and modify simple C/C++ code, you're good. All our examples are heavily commented and designed to be learning tools. Start with the boilerplate firmware, modify it step by step, break things, fix them. That's how you learn.
+Basic programming knowledge helps, but you don't need to be an expert. If you can read and modify simple C/C++ code, you're good. All our examples are heavily commented and designed to be learning tools. Start with the [boilerplate firmware](hello-world), modify it step by step, break things, fix them. That's how you learn.
 
 ### Is CloudMouse open source?
 
@@ -36,7 +36,7 @@ Want to read sensor data? Connect sensors to another ESP32 or Arduino and send d
 
 ### Can I power CloudMouse with a battery?
 
-Currently CloudMouse is designed for USB-C power only. Battery operation would require hardware modifications (adding battery management, power regulation, and a charging circuit). The ESP32-S3 with active display and LEDs draws significant current, so you'd need a decent-sized battery for reasonable runtime.
+Currently CloudMouse is designed for USB-C power only. Battery operation would require hardware modifications (adding battery management, power regulation, and a charging circuit). The ESP32-S3 with active display and LEDs draws significant current, so you'd need a decent-sized battery for reasonable runtime. Obiously you can power your CloudMouse with a powerbank in order to make it portable.
 
 ### What's the maximum WiFi range?
 
@@ -44,7 +44,7 @@ Typical indoor range is 30-50 meters depending on obstacles and interference. Ou
 
 ### Can CloudMouse work as a USB HID device?
 
-Yes. The ESP32-S3 supports USB OTG and can act as a USB keyboard, mouse, or gamepad when connected via USB. Check the USB HID examples in the repository for ready-to-use code.
+Yes. The ESP32-S3 supports USB OTG and can act as a USB keyboard, mouse, or gamepad when connected via USB. Check the USB HID examples (coming soon) in the repository for ready-to-use code.
 
 ### How much power does CloudMouse consume?
 
@@ -54,7 +54,7 @@ Depends entirely on what you're running. With display on full brightness and all
 
 ### Can I use PlatformIO instead of Arduino IDE?
 
-Yes, but we don't officially support it in the docs. If you're comfortable with PlatformIO, you can convert any Arduino sketch to a PlatformIO project. You'll need to configure the platform.ini properly for ESP32-S3 with the correct board settings. Check PlatformIO documentation for details.
+Yes, but we don't officially support it in this docs. If you're comfortable with PlatformIO, you can convert any Arduino sketch to a PlatformIO project. You'll need to configure the platform.ini properly for ESP32-S3 with the correct board settings. Check PlatformIO documentation for details.
 
 ### Can I use ESP-IDF instead of Arduino?
 
@@ -76,7 +76,7 @@ Technically yes, the ESP32-S3 supports MicroPython. However, none of our example
 
 ### Where do I start if I'm new to embedded programming?
 
-Start with the Getting Started guide to set up Arduino IDE. Then flash the Hello World boilerplate firmware to verify everything works. After that, pick the simplest example (LED Animations) and start modifying it. Change colors, timing, effects. Break it and fix it. That's the best way to learn.
+Start with the [Getting Started](getting-started) guide to set up Arduino IDE. Then flash the [Hello World boilerplate firmware](hello-world) to verify everything works. After that, pick one among our [examples](example-code) and start modifying it. Break it and fix it. That's the best way to learn.
 
 ### How do I debug my code?
 
@@ -94,7 +94,7 @@ Yes. The ESP32-S3 has dual cores that can run tasks independently. Use FreeRTOS 
 
 ### Where can I get help?
 
-Discord for quick questions and real-time chat. GitHub Issues for bug reports and feature requests. Community forum for in-depth discussions and project showcases. Choose based on your need: quick answer (Discord), bug report (GitHub), long discussion (forum).
+[Discord](https://discord.gg/n4Mh6jxH34) for quick questions and real-time chat. GitHub Issues for bug reports and feature requests. Community forum (coming soon) for in-depth discussions and project showcases. Choose based on your need: quick answer (Discord), bug report (GitHub), long discussion (forum).
 
 ### Can I contribute to the project?
 
@@ -102,7 +102,7 @@ Please do! We need examples, documentation improvements, bug fixes, library upda
 
 ### Where can I share my CloudMouse projects?
 
-Post on Discord, share on the forum, tweet with #CloudMouse hashtag, add to GitHub discussions. We love seeing what people build. Best projects get featured on our website and social media.
+Post on [Discord](https://discord.gg/n4Mh6jxH34), share on the forum, tweet with #CloudMouse hashtag, add to GitHub discussions. We love seeing what people build. Best projects get featured on our website and social media.
 
 ## Purchasing questions
 
@@ -120,4 +120,4 @@ CloudMouse device with Asteroids pre-loaded, USB-C cable, quick start guide. Eve
 
 ## Still have questions?
 
-Ask on Discord, post on the forum, or open a discussion on GitHub. The community is friendly and helpful. Don't be shy.
+Ask on [Discord](https://discord.gg/n4Mh6jxH34), post on the forum (coming soon), or open a discussion on GitHub. The community is friendly and helpful. Don't be shy.

@@ -77,7 +77,7 @@ Click the Upload button (arrow icon) in the toolbar.
 
 Arduino IDE will compile and upload the code to your CloudMouse.
 
-💡 If upload fails, try holding the BOOT button on your CloudMouse while clicking Upload, then release it after upload starts.
+💡 If upload fails, try holding the BOOT button on your CloudMouse while plugging in the USB, then upload again.
 
 ## Step 6: Open Serial Monitor
 
@@ -91,10 +91,10 @@ Congratulations! You're officially a CloudMouse developer now.
 
 ## What's next?
 
-Check out the Example Code section for ready-to-run projects like LED animations, display graphics, and WiFi scanning.
+Check out the [Example Code](example-code) section for ready-to-run projects like LED animations, display graphics, and WiFi scanning.
 
-Want to understand the hardware? Read the Hardware Specs and Pinout Reference.
+Want to understand the hardware? Read the [Hardware Specs](hardware-specifications) and [Pinout Reference](pinout-reference).
 
-Something not working? Jump to Troubleshooting for solutions.
+Something not working? Jump to [Troubleshooting](troubleshooting) for solutions.
 
 Now go build something awesome.

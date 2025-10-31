@@ -10,7 +10,7 @@ You're not alone. CloudMouse has a growing community of makers, developers, and 
 
 Our Discord server is the heart of the CloudMouse community. Active makers, helpful moderators, and fast responses. Stuck on something? Ask in Discord. Built something cool? Share it there first.
 
-Join here: [Discord invite link]
+Join here: <https://discord.gg/n4Mh6jxH34>
 
 Channels include:
 
@@ -29,10 +29,9 @@ All CloudMouse code, examples, and documentation live on GitHub. Found a bug? Op
 
 Main repositories:
 
-  * **cloudmouse-co/boilerplate** \- Hello World firmware and SDK
-  * **cloudmouse-co/examples** \- All example projects
-  * **cloudmouse-co/hardware** \- Schematics and PCB files
-  * **cloudmouse-co/documentation** \- This documentation source
+  * **cloudmouse-co/cloudmouse-sdk**  \- Hello World firmware and SDK
+  * **cloudmouse-co/cloudmouse-example-*** \- All example projects
+  * **cloudmouse-co/cloudmouse-docs** \- This documentation source
 
 GitHub: [github.com/cloudmouse-co](https://github.com/cloudmouse-co)
 
@@ -42,7 +41,7 @@ GitHub: [github.com/cloudmouse-co](https://github.com/cloudmouse-co)
 
 The forum is perfect for detailed conversations that don't fit in Discord. Write tutorials, document your builds, discuss complex topics, share long-form guides.
 
-Forum: [Forum link]
+Forum: **COMING SOON**
 
 Categories include:
 
@@ -58,14 +57,14 @@ Categories include:
 
 Visual learner? Check out our YouTube channel for setup guides, project tutorials, and community highlights.
 
-YouTube: [YouTube channel link]
+YouTube: [@cloudmouse_co](https://www.youtube.com/@cloudmouse_co)
 
 Subscribe to get notified about:
 
   * New firmware releases and features
   * Community project spotlights
   * Tutorial videos
-  * Live streams and Q&A; sessions
+  * Live streams and Q&A sessions
 
 ## Twitter / X
 
@@ -73,7 +72,7 @@ Subscribe to get notified about:
 
 Follow us for news, announcements, retweets of cool community projects, and behind-the-scenes development updates.
 
-Twitter: [Twitter handle]
+Twitter: [@cloudmouse_co](https://x.com/cloudmouse_co)
 
 Use **#CloudMouse** when posting your projects so we can find and share them!
 
@@ -83,9 +82,9 @@ Use **#CloudMouse** when posting your projects so we can find and share them!
 
 For order problems, hardware defects, or business/partnership inquiries, email us directly:
 
-Email: [support email address]
+See contacs section: [cloudmouse.co/contacts](contacts)
 
-Please note: For technical questions and troubleshooting, Discord and the forum are much faster. Email is primarily for order and business matters.
+Please note: For technical questions and troubleshooting, [Discord](https://discord.gg/n4Mh6jxH34) and the forum are much faster. Email is primarily for order and business matters.
 
 ## Contributing to CloudMouse
 
@@ -117,9 +116,9 @@ Moderators have final say on enforcement. If you're unsure, ask.
 
 **Before contacting support, check if your question is answered here:**
 
-  * Device not working? See Troubleshooting first
-  * How do I do X? Check Example Code and Q&A;
+  * Device not working? See [Troubleshooting](troubleshooting) first
+  * How do I do X? Check [Example Code](example-code) and [Q&A](questions-answers)
   * Where's my order? Check your order confirmation email for tracking
-  * Can I get a refund? See our return policy on the website
+  * Can I get a refund? See our [return policy](refund-policy) on the website
 
 For everything else, we're here to help. Join the community!

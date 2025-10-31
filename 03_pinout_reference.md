@@ -97,6 +97,6 @@ For most projects, the onboard peripherals (display, encoder, LEDs, buzzer) prov
 
 ## What's next?
 
-Ready to start coding? Check out the Example Code section for ready-to-run sketches that demonstrate how to use each component.
+Ready to start coding? Check out the [Example Code](example-code) section for ready-to-run sketches that demonstrate how to use each component.
 
-Need library recommendations? See the Downloads section for tested Arduino libraries.
+Need library recommendations? See the [Downloads](downloads-files) section for tested Arduino libraries.

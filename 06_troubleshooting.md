@@ -22,11 +22,9 @@ Something not working? Don't panic. Most issues have simple solutions. We've col
 
 **Solutions:**
 
-  * Hold the BOOT button on CloudMouse while clicking Upload in Arduino IDE
-  * Keep holding BOOT until you see "Connecting..." message
-  * Release BOOT button after upload starts (when you see percentage progress)
-  * Make sure you selected the correct COM port in Tools → Port
-  * Try lowering upload speed: Tools → Upload Speed → 115200 or 460800
+  * Hold the BOOT button on CloudMouse while pluggin in the USB-C and Upload in Arduino IDE
+  * Make sure you selected the correct COM port in Tools -> Port
+  * Try lowering upload speed: Tools -> Upload Speed -> 115200 or 460800
   * Close Serial Monitor if it's open (it blocks the COM port)
 
 ## Display stays blank or white
@@ -38,7 +36,7 @@ Something not working? Don't panic. Most issues have simple solutions. We've col
   * Check that you're using the correct display library (LovyanGFX for ILI9488)
   * Verify pin configuration matches the Pinout Reference (SCLK=6, MOSI=7, CS=4, DC=5, RST=21, BL=8)
   * Check that backlight is enabled in code. Try setting backlight to maximum: `lcd.setBrightness(255);`
-  * Make sure PSRAM is enabled in Arduino IDE settings (Tools → PSRAM → OPI PSRAM)
+  * Make sure PSRAM is enabled in Arduino IDE settings (Tools -> PSRAM -> OPI PSRAM)
   * Try the boilerplate firmware from Hello World guide to verify hardware works
 
 ## LEDs don't light up
@@ -96,7 +94,7 @@ Something not working? Don't panic. Most issues have simple solutions. We've col
 
 **Solutions:**
 
-  * Enable USB CDC On Boot in Arduino IDE settings (Tools → USB CDC On Boot → Enabled)
+  * Enable USB CDC On Boot in Arduino IDE settings (Tools -> USB CDC On Boot -> Enabled)
   * Make sure Flash Size is set to 16MB in Tools menu
   * Verify PSRAM is configured as OPI PSRAM in Tools menu
   * Check that you're not running out of memory (add Serial.println(ESP.getFreeHeap()) to debug)
@@ -119,7 +117,7 @@ Something not working? Don't panic. Most issues have simple solutions. We've col
 If none of these solutions work:
 
   * Check the GitHub Issues page for your specific example or firmware
-  * Join our Discord community and ask for help (include error messages and what you've already tried)
+  * [Join our Discord](https://discord.gg/n4Mh6jxH34) community and ask for help (include error messages and what you've already tried)
   * Post on the community forum with detailed description and photos if relevant
   * Make sure you're using the latest version of Arduino IDE and ESP32 board package
 

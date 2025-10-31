@@ -31,10 +31,10 @@ The hardware is yours. The code is yours. Do whatever you want with it.
 
 ## Getting help
 
-Stuck on something? Check the [Troubleshooting](06_troubleshooting.md) section for common issues and solutions.
+Stuck on something? Check the [Troubleshooting](troubleshooting) section for common issues and solutions.
 
 Want to chat with other makers? Join our [Discord](https://discord.gg/n4Mh6jxH34) community.
 
-Looking for inspiration? Browse the [Examples](05_example_code.md) section for ready-to-run projects.
+Looking for inspiration? Browse the [Examples](example-code) section for ready-to-run projects.
 
 Now plug it in and let's get started.

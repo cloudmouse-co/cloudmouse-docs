@@ -2,7 +2,7 @@
 
 ### Dual-core ESP32-S3 running at 240MHz. 8MB PSRAM for your ideas. 16MB flash for your code. Plus encoder, display, LED, buzzer.
 
-CloudMouse is built around the ESP32-S3 N16R8, a powerful dual-core microcontroller with integrated WiFi and Bluetooth. Everything you need to build interactive projects is already on board.
+CloudMouse is built around the **ESP32-S3 N16R8** , a powerful dual-core microcontroller with integrated WiFi and Bluetooth. Everything you need to build interactive projects is already on board.
 
 ## Microcontroller
 
@@ -95,4 +95,4 @@ The combination of display, encoder, LEDs, and wireless connectivity makes Cloud
 
 With 16MB of flash and 8MB of PSRAM, you have plenty of space for complex applications, graphics, and data storage.
 
-Want to see how everything connects? Check the Pinout Reference for detailed GPIO mapping.
+Want to see how everything connects? Check the [Pinout Reference](pinout-reference) for detailed GPIO mapping.
