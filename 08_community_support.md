@@ -116,8 +116,8 @@ Moderators have final say on enforcement. If you're unsure, ask.
 
 **Before contacting support, check if your question is answered here:**
 
-  * Device not working? See [Troubleshooting](troubleshooting) first
-  * How do I do X? Check [Example Code](example-code) and [Q&A](questions-answers)
+  * Device not working? See [Troubleshooting](06_troubleshooting.md) first
+  * How do I do X? Check [Example Code](05_example_code.md) and [Q&A](07_questions_answers.md)
   * Where's my order? Check your order confirmation email for tracking
   * Can I get a refund? See our [return policy](refund-policy) on the website
 

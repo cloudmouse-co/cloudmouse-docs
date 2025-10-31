@@ -12,7 +12,7 @@ Anything controllable. Seriously. Custom wireless input devices (mouse, keyboard
 
 ### Do I need coding skills?
 
-Basic programming knowledge helps, but you don't need to be an expert. If you can read and modify simple C/C++ code, you're good. All our examples are heavily commented and designed to be learning tools. Start with the [boilerplate firmware](hello-world), modify it step by step, break things, fix them. That's how you learn.
+Basic programming knowledge helps, but you don't need to be an expert. If you can read and modify simple C/C++ code, you're good. All our examples are heavily commented and designed to be learning tools. Start with the [boilerplate firmware](04_hello_world.md), modify it step by step, break things, fix them. That's how you learn.
 
 ### Is CloudMouse open source?
 
@@ -76,7 +76,7 @@ Technically yes, the ESP32-S3 supports MicroPython. However, none of our example
 
 ### Where do I start if I'm new to embedded programming?
 
-Start with the [Getting Started](getting-started) guide to set up Arduino IDE. Then flash the [Hello World boilerplate firmware](hello-world) to verify everything works. After that, pick one among our [examples](example-code) and start modifying it. Break it and fix it. That's the best way to learn.
+Start with the [Getting Started](01_getting_started.md) guide to set up Arduino IDE. Then flash the [Hello World boilerplate firmware](04_hello_world.md) to verify everything works. After that, pick one among our [examples](05_example_code.md) and start modifying it. Break it and fix it. That's the best way to learn.
 
 ### How do I debug my code?
 

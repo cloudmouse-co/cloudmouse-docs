@@ -95,4 +95,4 @@ The combination of display, encoder, LEDs, and wireless connectivity makes Cloud
 
 With 16MB of flash and 8MB of PSRAM, you have plenty of space for complex applications, graphics, and data storage.
 
-Want to see how everything connects? Check the [Pinout Reference](pinout-reference) for detailed GPIO mapping.
+Want to see how everything connects? Check the [Pinout Reference](03_pinout_reference.md) for detailed GPIO mapping.

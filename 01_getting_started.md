@@ -91,10 +91,10 @@ Congratulations! You're officially a CloudMouse developer now.
 
 ## What's next?
 
-Check out the [Example Code](example-code) section for ready-to-run projects like LED animations, display graphics, and WiFi scanning.
+Check out the [Example Code](05_example_code.md) section for ready-to-run projects like LED animations, display graphics, and WiFi scanning.
 
-Want to understand the hardware? Read the [Hardware Specs](hardware-specifications) and [Pinout Reference](pinout-reference).
+Want to understand the hardware? Read the [Hardware Specs](02_hardware_specifications.md) and [Pinout Reference](03_pinout_reference.md).
 
-Something not working? Jump to [Troubleshooting](troubleshooting) for solutions.
+Something not working? Jump to [Troubleshooting](06_troubleshooting.md) for solutions.
 
 Now go build something awesome.
