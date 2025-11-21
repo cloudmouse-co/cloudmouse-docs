@@ -73,7 +73,7 @@ Files are numbered to maintain proper reading order.
 
 - **Official Website**: [cloudmouse.co](https://cloudmouse.co)
 - **SDK Repository**: [github.com/cloudmouse-co/cloudmouse-sdk](https://github.com/cloudmouse-co/cloudmouse-sdk)
-- **Examples Repository**: [github.com/cloudmouse-co/examples](https://github.com/cloudmouse-co/examples)
+- **Examples**: [cloudmouse.co/docs/example-code](https://cloudmouse.co/docs/example-code)
 - **Discord**: [discord.gg/n4Mh6jxH34](https://discord.gg/n4Mh6jxH34)
 
 ## 💬 Support
