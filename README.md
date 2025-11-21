@@ -1,10 +1,10 @@
 # CloudMouse Documentation 📚
 
-Official documentation for the CloudMouse - an ESP32-based IoT device for rapid prototyping and production.
+Official documentation for the [CloudMouse](https://cloudmouse.co) - an ESP32-based IoT device for rapid prototyping and production.
 
 ## 🎯 About
 
-This repository contains the complete CloudMouse documentation in Markdown format, including:
+This repository contains the complete [CloudMouse documentation](https://cloudmouse.co/docs) in Markdown format, including:
 
 - **Getting Started Guides** - Quick setup and first steps
 - **Hello world** - SDK first flashing and hello world
@@ -72,24 +72,24 @@ Files are numbered to maintain proper reading order.
 ## 🔗 Useful Links
 
 - **Official Website**: [cloudmouse.co](https://cloudmouse.co)
-- **SDK Repository**: [github.com/cloudmouse-co/sdk](https://github.com/cloudmouse-co/sdk)
-- **Community Forum**: [forum.cloudmouse.co](https://forum.cloudmouse.co)
+- **SDK Repository**: [github.com/cloudmouse-co/cloudmouse-sdk](https://github.com/cloudmouse-co/cloudmouse-sdk)
 - **Examples Repository**: [github.com/cloudmouse-co/examples](https://github.com/cloudmouse-co/examples)
+- **Discord**: [discord.gg/n4Mh6jxH34](https://discord.gg/n4Mh6jxH34)
 
 ## 💬 Support
 
 Need help with CloudMouse SDK?
 
 - **Documentation Issues**: Open an issue in this repository
-- **SDK Bugs**: Report in the [main SDK repository](https://github.com/cloudmouse-co/sdk/issues)
-- **Questions**: Visit our [community forum](https://forum.cloudmouse.org)
+- **SDK Bugs**: Report in the [main SDK repository](https://github.com/cloudmouse-co/cloudmouse-sdk/issues)
 - **Email**: support@cloudmouse.co
+<!-- - **Questions**: Visit our [community forum](https://forum.cloudmouse.org) -->
 
 ## 📄 License
 
 This documentation is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-The CloudMouse SDK itself is licensed under MIT - see the [SDK repository](https://github.com/cloudmouse-co/sdk) for details.
+The CloudMouse SDK itself is licensed under MIT - see the [SDK repository](https://github.com/cloudmouse-co/cloudmouse-sdk) for details.
 
 ---
 
