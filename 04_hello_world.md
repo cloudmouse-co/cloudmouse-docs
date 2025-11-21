@@ -8,7 +8,7 @@ Perfect for verifying that everything works and learning how to use Git, clone r
 
 ## Before you start
 
-Make sure you have Arduino IDE installed and configured to communicate with your CloudMouse. If you haven't done this yet, go to the Getting Started guide first.
+Make sure you have Arduino IDE installed and configured to communicate with your CloudMouse. If you haven't done this yet, go to the [Getting Started](01_getting_started.md) guide first.
 
 ## What this firmware does
 
@@ -33,11 +33,11 @@ git --version
 
 ## Step 2: Clone the repository
 
-Open a terminal and navigate to where you want to save the project. Then clone the CloudMouse boilerplate repository:
+Open a terminal and navigate to where you want to save the project. Then clone the [CloudMouse SDK repository](https://github.com/cloudmouse-co/cloudmouse-sdk):
 
 ```bash
-git clone https://github.com/cloudmouse-co/boilerplate.git
-cd boilerplate
+git clone https://github.com/cloudmouse-co/cloudmouse-sdk.git
+cd cloudmouse-sdk
 ```
  
 

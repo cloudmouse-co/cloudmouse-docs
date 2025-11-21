@@ -10,9 +10,9 @@ Everything you need in one place. Firmware binaries, hardware files, libraries, 
 
 The official Hello World firmware. Tests all hardware components and serves as a starting point for your projects.
 
-  * **Source Code:** [github.com/cloudmouse-co/boilerplate](https://github.com/cloudmouse-co/boilerplate)
+  * **Source Code:** [github.com/cloudmouse-co/cloudmouse-sdk](https://github.com/cloudmouse-co/cloudmouse-sdk)
   * **Pre-compiled Binary:** cloudmouse-boilerplate-v1.0.bin
-  * **Flash Instructions:** See Getting Started guide
+  * **Flash Instructions:** See [Getting Started](01_getting_started.md) guide
 
 ### Asteroids Firmware
 

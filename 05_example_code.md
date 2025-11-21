@@ -1,6 +1,6 @@
 # Example Code
 
-### Six battle-tested examples ready to run. Encoder reading. Display graphics. WiFi scanner. Web server. BLE mouse. Pick one. Upload. Learn. Modify.
+### Some battle-tested examples ready to run. Encoder reading. Display graphics. WiFi scanner. Web server. BLE mouse. Pick one. Upload. Learn. Modify.
 
 Ready-to-run examples that show you what CloudMouse can do. Each example is complete, documented, and available on GitHub. Pick one, clone it, upload it, and see it work.
 
@@ -8,58 +8,58 @@ All examples are built to teach you something specific while being actually usef
 
 ## Available examples
 
-### 1\. LED Animations
+### 1\. LVGL basic implementation
 
-**What it does:** Multiple LED effects including rainbow cycle, breathing, scanner, and theater chase. Use the encoder to switch between animations and adjust speed.
+**What it does:**  Cloudmouse SDK with LVGL greacefully implemented on top of DisplayManager, running on Core 1
+
+**Usefull for:**
+
+  * Advanced UI prototipation
+  * Smooth animations
+  * LVGL rich snippets out of the box
+  * Rich UI applications
+
+**GitHub:** [cloudmouse-co/c](https://github.com/cloudmouse-co/example-led-animations)[loudmouse-examples-lvgl](https://github.com/cloudmouse-co/cloudmouse-example-lvgl)
+
+### 2\. Weather station
+
+**What it does:** A complete weather monitoring application that demonstrates advanced CloudMouse SDK features including service architecture, event-driven communication, and pixel-perfect LVGL UI design.
 
 **What you 'll learn:**
 
-  * Advanced FastLED effects and color manipulation
-  * Smooth animations with proper timing
-  * Encoder input for UI control
-  * Display feedback for current mode
+  * Consuming API endpoints
+  * Beautiful LVGL UI
+  * FontAwesome icons implementation
+  * Event-driven communication
 
-**GitHub:** [cloudmouse-co/example-led-animations](https://github.com/cloudmouse-co/example-led-animations)
+**GitHub:** [cloudmouse-co/](https://github.com/cloudmouse-co/example-wifi-scanner)[cloudmouse-example-wather-station](https://github.com/cloudmouse-co/cloudmouse-example-weather-station)
 
-### 2\. WiFi Scanner
+### 3\. BLE HID Volume controller
 
-**What it does:** Scans for WiFi networks and displays them on screen with signal strength bars. Shows SSID, channel, encryption type, and RSSI. Auto-refreshes every few seconds.
-
-**What you 'll learn:**
-
-  * WiFi scanning and network detection
-  * Parsing WiFi information (SSID, RSSI, encryption)
-  * Dynamic list rendering on display
-  * Signal strength visualization
-
-**GitHub:** [cloudmouse-co/example-wifi-scanner](https://github.com/cloudmouse-co/example-wifi-scanner)
-
-### 3\. BLE HID Mouse
-
-**What it does:** Turns CloudMouse into a wireless Bluetooth mouse. Rotate the encoder to move cursor, press button to click. Works with any device that supports BLE HID.
+**What it does:** Turns CloudMouse into a wireless Bluetooth mouse. Control your computer's volume wirelessly using the rotary encoder.
 
 **What you 'll learn:**
 
   * Bluetooth Low Energy HID protocol
-  * HID mouse report format
+  * HID keyboard report format
   * Encoder as input device
   * BLE pairing and connection handling
 
-**GitHub:** [cloudmouse-co/example-ble-mouse](https://github.com/cloudmouse-co/example-ble-mouse)
+**GitHub:** [cloudmouse-co/cloudmouse-example-ble-keyboard](https://github.com/cloudmouse-co/cloudmouse-example-ble-keyboard)
 
-### 4\. Web Server Dashboard
+### 4\. Forex app
 
-**What it does:** Creates a local web server with a control panel. Access it from your browser to control LEDs, display messages, read sensor data, and trigger buzzer. Perfect starting point for IoT projects.
+**What it does:** A professional real-time forex market tracking application for CloudMouse devices. Features live price monitoring, configurable alerts, and a beautiful LVGL-powered interface.
 
 **What you 'll learn:**
 
-  * ESP32 web server basics
-  * HTML/CSS/JavaScript interface design
-  * AJAX requests for real-time updates
+  * How implement a full application on top of CluodMouse SDK
+  * HTML/CSS/JavaScript interface design exposed through web server
+  * Access and write NVS (Non-Volatile Storage)
   * JSON data exchange
-  * Access Point and Station modes
+  * Advanced LVGL usage
 
-**GitHub:** [cloudmouse-co/example-web-server](https://github.com/cloudmouse-co/example-web-server)
+**GitHub:** [cloudmouse-co/cloudmouse-example-forex-app](https://github.com/cloudmouse-co/cloudmouse-example-forex-app)
 
 ### 5\. Sensor Dashboard
 
@@ -72,7 +72,7 @@ All examples are built to teach you something specific while being actually usef
   * Simple graph rendering
   * System monitoring and diagnostics
 
-**GitHub:** [cloudmouse-co/example-sensor-dashboard](https://github.com/cloudmouse-co/example-sensor-dashboard)
+**GitHub:** COMING SOON
 
 ### 6\. Encoder Menu System
 
@@ -85,7 +85,7 @@ All examples are built to teach you something specific while being actually usef
   * Encoder-based navigation patterns
   * Drawing menus and selection indicators
 
-**GitHub:** [cloudmouse-co/example-menu-system](https://github.com/cloudmouse-co/example-menu-system)
+**GitHub:** COMING SOON
 
 ## How to use these examples
 
